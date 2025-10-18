@@ -17,9 +17,6 @@ StayEase is a full-stack clone of the popular accommodation booking platform Air
 - Develop component-based frontend architecture
 - Learn best practices for web application development
 
-## Getting Started
-[Instructions will be added as project progresses]
-
 ## UI/UX Design Planning
 
 ### Design Goals
@@ -44,3 +41,42 @@ StayEase is a full-stack clone of the popular accommodation booking platform Air
 
 ### Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success in the competitive vacation rental market.
+
+### Figma Design Specifications
+
+#### Color Styles
+- **Primary**: #FF5A5F (Red/Orange for buttons and important actions)
+- **Secondary**: #008489 (Teal for secondary elements)
+- **Background**: #FFFFFF (White for main background)
+- **Text**: #222222 (Dark gray for primary text)
+- **Secondary Text**: #717171 (Light gray for less important text)
+- **Border**: #DDDDDD (Light gray for borders and dividers)
+
+#### Typography
+- **Primary Font**: Circular, Medium (500), 16px
+- **Headings**: Circular, Bold (700), 24px-32px
+- **Secondary Text**: Circular, Book (400), 14px
+- **Small Text**: Circular, Book (400), 12px
+
+#### Importance of Identifying Design Properties
+Identifying design properties from mockups ensures consistency throughout the development process. It helps maintain brand identity, speeds up development by providing clear guidelines, and ensures that all team members are aligned on the visual aspects of the application.
+
+### Figma Design Specifications
+
+#### Color Styles
+- **Primary**: #FF5A5F (Red/Orange for buttons and important actions)
+- **Secondary**: #008489 (Teal for secondary elements)
+- **Background**: #FFFFFF (White for main background)
+- **Text**: #222222 (Dark gray for primary text)
+- **Secondary Text**: #717171 (Light gray for less important text)
+- **Border**: #DDDDDD (Light gray for borders and dividers)
+
+#### Typography
+- **Primary Font**: Circular, Medium (500), 16px
+- **Headings**: Circular, Bold (700), 24px-32px
+- **Secondary Text**: Circular, Book (400), 14px
+- **Small Text**: Circular, Book (400), 12px
+
+#### Importance of Identifying Design Properties
+Identifying design properties from mockups ensures consistency throughout the development process. It helps maintain brand identity, speeds up development by providing clear guidelines, and ensures that all team members are aligned on the visual aspects of the application.
+
