@@ -93,3 +93,34 @@ Identifying design properties from mockups ensures consistency throughout the de
 | **Product Owner** | Defines requirements, prioritizes features, represents stakeholders | Ensures project meets business objectives and user needs |
 | **Scrum Master** | Facilitates agile processes, removes blockers, organizes meetings | Improves team efficiency and maintains development workflow |
 
+## UI Component Patterns
+
+### Planned Components
+
+#### Navbar
+- **Logo**: Clickable logo that navigates to homepage
+- **Search Bar**: Location-based search with autocomplete
+- **User Navigation**: User profile, notifications, and account settings
+- **Responsive Menu**: Mobile-friendly hamburger menu for smaller screens
+- **Features**: Sticky navigation, responsive behavior
+
+#### Property Card
+- **Property Image**: High-quality main photo with hover effects
+- **Basic Details**: Price per night, location, property type
+- **Ratings**: Star rating and review count
+- **Favorite Button**: Heart icon for saving properties
+- **Responsive Layout**: Adapts to different screen sizes
+- **Features**: Image carousel, quick view options
+
+#### Footer
+- **Site Links**: Navigation to important pages (About, Help, Careers)
+- **Company Information**: Legal links and company details
+- **Social Media Links**: Icons for social platforms
+- **Copyright Information**: Copyright notice and rights
+- **Features**: Multi-column layout, responsive design
+
+### Component Benefits
+- **Reusability**: Components can be used across multiple pages
+- **Consistency**: Maintains uniform styling and behavior
+- **Maintainability**: Easy to update and modify
+- **Scalability**: Supports future feature additions
