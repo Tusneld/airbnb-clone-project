@@ -80,3 +80,16 @@ Identifying design properties from mockups ensures consistency throughout the de
 #### Importance of Identifying Design Properties
 Identifying design properties from mockups ensures consistency throughout the development process. It helps maintain brand identity, speeds up development by providing clear guidelines, and ensures that all team members are aligned on the visual aspects of the application.
 
+## Project Roles and Responsibilities
+
+| Role | Responsibilities | Contribution to Project Success |
+|------|------------------|--------------------------------|
+| **Project Manager** | Oversees timeline, coordinates team, manages deliverables | Ensures project stays on track and meets deadlines |
+| **Frontend Developers** | Implements UI components, ensures responsive design | Creates engaging user interface and smooth user experience |
+| **Backend Developers** | Builds APIs, manages database, implements business logic | Ensures reliable data management and application functionality |
+| **Designers** | Creates mockups, maintains design system, ensures UX quality | Provides visual direction and user-centered design solutions |
+| **QA/Testers** | Writes test cases, performs testing, reports bugs | Maintains application quality and identifies issues early |
+| **DevOps Engineers** | Manages deployment, CI/CD pipeline, server infrastructure | Ensures smooth deployment and reliable hosting environment |
+| **Product Owner** | Defines requirements, prioritizes features, represents stakeholders | Ensures project meets business objectives and user needs |
+| **Scrum Master** | Facilitates agile processes, removes blockers, organizes meetings | Improves team efficiency and maintains development workflow |
+
